@@ -1,0 +1,6 @@
+{
+  "name": "Дашборд коммерческого блока — Ростелеком",
+  "description": "Экосистема коммерческого блока Ростелеком: радар присутствия, аналитика белых пятен, инвестиционный навигатор и калькулятор сделок.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
